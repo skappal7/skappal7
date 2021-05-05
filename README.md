@@ -50,4 +50,12 @@ Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Lead
 
 <br>
 
+### You can find me on
+
+🎙️ [Anchor Podcasts](https://anchor.fm/data_dojo) <br>
+🎙️ [Spotify](https://open.spotify.com/show/071gHI4RB0awwiAUsS494Vr) <br>
+🐦 [Twitter](https://twitter.com/skappal) <br>
+📷 [Wordpress](https://skappal7.wordpress.com/n) <br>
+
+
 _Made with a lot of ❤️❤️ by **[@skappal7](https://github.com/skappal7)**_
