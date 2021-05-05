@@ -26,7 +26,7 @@ Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Lead
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=skappal7&show_icons=true&theme=monokai&count_private=true&hide=prs,contribs"
+        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=skappal7&show_icons=true&theme=gradient&count_private=true&hide=prs,contribs"
             alt="Sunil's Github stats">
     </a>
     <a href="#">
