@@ -46,6 +46,7 @@ Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Lead
     </a>
 </div>
 
+![Twitter Follow](https://img.shields.io/twitter/follow/skappal?style=social)
 ---
 
 <br>
