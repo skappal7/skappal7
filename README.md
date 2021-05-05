@@ -32,9 +32,7 @@ Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Lead
     <a href="#">
         <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=skappal7&theme=monokai"
             alt="Sunil's Github commit streak">
- 
-    </a>
-</div>
+ </div>
 
 ---
 
