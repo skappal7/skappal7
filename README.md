@@ -1,16 +1,53 @@
-### Hi there 👋
+<!-- markdownlint-disable MD033 MD042-->
 
-<!--
-**skappal7/skappal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm **[Sunil Kappal](https://skappal7.github.io/Sunil_Kappal_Portfolio/)**! 👋
 
-Here are some ideas to get you started:
+Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Leader Analytics ([LinkedIN](https://www.linkedin.com/in/skappal/)). Freelance Data Analytics Consultant([Portfolio](https://sites.google.com/view/sunilkappalportfolio/home)).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **😊 About me**
+
+- 🔭 I’m a seasoned data analytics professional with over 2 decades of industry experience
+- 🌱 I’m a life long learner
+- 👯 I’m looking to start a data analytics for rookies webinar series
+- 🤔 I’m looking to move to the next challenging assignment
+- 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
+- ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
+
+---
+
+## **📊 Stats**
+
+<div align="center" style="text-align:center">
+    <a href="#">
+        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=skappal7show_icons=true&theme=monokai&count_private=true"
+            alt="Sunil's Github stats">
+    </a>
+    <a href="#">
+        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=skappal7&theme=monokai"
+            alt="Sunil's Github commit streak">
+ 
+    </a>
+</div>
+
+---
+
+## **📫 How to reach me**
+
+<div align="center" style="text-align:center">
+    <a href="mailto:skappal7@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
+            alt="Sunil's Gmail">
+    </a>
+      <a href="https://www.linkedin.com/in/skappal/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="Sunil's LinkedIn">
+    </a>
+</div>
+
+---
+
+<br>
+
+_Made with a lot of ❤️❤️ by **[@skappal7](https://github.com/skappal7)**_
