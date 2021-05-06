@@ -6,7 +6,7 @@ Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Lead
 
 ---
 
-## **😊 About me**
+### **😊 About me**
 
 - 🔭 I’m a seasoned data analytics professional with over 2 decades of industry experience
 - 🧰 My analytics toolbox contains R, Python, SQL, DAX, Tableau, Power BI, IBM Watson, Microstrategy, MS Excel
@@ -28,7 +28,7 @@ Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Lead
 </p>
 ---
 
-## **📊 Stats**
+### **📊 Stats**
 
 <div align="center" style="text-align:center">
     <a href="#">
@@ -42,7 +42,7 @@ Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Lead
 
 ---
 
-## **📫 How to reach me**
+### **📫 How to reach me**
 
 <div align="center" style="text-align:center">
     <a href="mailto:skappal7@gmail.com">
@@ -55,6 +55,7 @@ Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Lead
             <a href="https://twitter.com/skappal"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
             </div>
 
+### **Follow me**
 ![Twitter Follow](https://img.shields.io/twitter/follow/skappal?style=social)
 ![GitHub Follow](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/skappal7)
 ---
