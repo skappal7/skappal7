@@ -1,6 +1,8 @@
 <!-- markdownlint-disable MD033 MD042-->
 
-![](https://github.com/skappal7/Sunil_Kappal_Portfolio/blob/main/Images/Github%20Logo.gif)
+<div align="center">
+  <img src="https://github.com/skappal7/Sunil_Kappal_Portfolio/blob/main/Images/Github%20Logo.gif" alt="header"/>
+</div>
  
 # Hi there, I'm **[Sunil Kappal](https://skappal7.github.io/Sunil_Kappal_Portfolio/)**! 👋
 
