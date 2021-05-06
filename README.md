@@ -46,7 +46,7 @@ Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Lead
       <a href="https://www.linkedin.com/in/skappal/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Sunil's LinkedIn">
-            <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+            <a href="https://twitter.com/skappal"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/skappal?style=social)
