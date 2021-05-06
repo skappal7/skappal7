@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD042-->
 
 <div align="center">
-  <img src="https://github.com/skappal7/Sunil_Kappal_Portfolio/blob/main/Images/Github%20Logo.gif" alt="header"/>
+  <img src="https://github.com/skappal7/Sunil_Kappal_Portfolio/blob/main/Images/Github%20Logo1.gif" alt="header"/>
 </div>
  <p align="center"> (OPEN FOR HIRING!)</p>
 # Hi there, I'm **[Sunil Kappal](https://skappal7.github.io/Sunil_Kappal_Portfolio/)**! 👋
