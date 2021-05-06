@@ -1,6 +1,7 @@
 <!-- markdownlint-disable MD033 MD042-->
 
 ![Monash UAS](https://github.com/skappal7/Sunil_Kappal_Portfolio/blob/main/Images/Github%20Logo.gif)
+
 <p align="center">
       
 # Hi there, I'm **[Sunil Kappal](https://skappal7.github.io/Sunil_Kappal_Portfolio/)**! 👋
