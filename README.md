@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/skappal7/Sunil_Kappal_Portfolio/blob/main/Images/Github%20Logo.gif" alt="header"/>
 </div>
- 
+ <p align="center"> (OPEN FOR HIRING!)</p>
 # Hi there, I'm **[Sunil Kappal](https://skappal7.github.io/Sunil_Kappal_Portfolio/)**! 👋
 
 Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Leader Analytics ([LinkedIN](https://www.linkedin.com/in/skappal/)). Freelance Data Analytics Consultant([Portfolio](https://sites.google.com/view/sunilkappalportfolio/home)).
