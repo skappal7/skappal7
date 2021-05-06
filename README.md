@@ -2,6 +2,8 @@
 
 # Hi there, I'm **[Sunil Kappal](https://skappal7.github.io/Sunil_Kappal_Portfolio/)**! 👋
 
+![](Images/Github%20Logo.gif)
+
 Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Leader Analytics ([LinkedIN](https://www.linkedin.com/in/skappal/)). Freelance Data Analytics Consultant([Portfolio](https://sites.google.com/view/sunilkappalportfolio/home)).
 
 ---
