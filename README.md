@@ -61,6 +61,6 @@ Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Lead
 🐦 [Twitter](https://twitter.com/skappal) <br>
 📷 [Wordpress](https://skappal7.wordpress.com/n) <br>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=skappal7.skappal7)
 
 _Made with a lot of ❤️❤️ by **[@skappal7](https://github.com/skappal7)**_
