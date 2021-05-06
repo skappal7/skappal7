@@ -20,6 +20,11 @@ Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Lead
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
 - ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
 
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
+</p>
 ---
 
 ## **📊 Stats**
@@ -61,6 +66,5 @@ Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Lead
 🐦 [Twitter](https://twitter.com/skappal) <br>
 📷 [Wordpress](https://skappal7.wordpress.com/n) <br>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=skappal7.skappal7)
 
 _Made with a lot of ❤️❤️ by **[@skappal7](https://github.com/skappal7)**_
