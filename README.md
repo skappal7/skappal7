@@ -6,7 +6,9 @@
  <p align="center"> (OPEN FOR HIRING!)</p>
 
 <p align="center"> 
+  
   # Hi there, I'm **[Sunil Kappal](https://skappal7.github.io/Sunil_Kappal_Portfolio/)**! 👋
+  
 </p>
 Full-time **data analytics professional**)🧑‍🎓🎓. Service Delivery Leader Analytics ([LinkedIN](https://www.linkedin.com/in/skappal/)). Freelance Data Analytics Consultant([Portfolio](https://sites.google.com/view/sunilkappalportfolio/home)).
 
