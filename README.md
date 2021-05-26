@@ -69,4 +69,6 @@ Full-time **data analytics professional** 🧑‍🎓🎓. Service Delivery Lead
 🐦 [Twitter](https://twitter.com/skappal) <br>
 📷 [Wordpress](https://skappal7.wordpress.com/n) <br>
 
+get_citation_history(gcZ0bu4AAAAJ)
+
 _Made with a lot of ❤️❤️ by **[@skappal7](https://github.com/skappal7)**_
