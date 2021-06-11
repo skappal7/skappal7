@@ -15,7 +15,7 @@ Full-time **data analytics professional** 🧑‍🎓🎓. Service Delivery Lead
 - 🔭 I’m a seasoned data analytics professional with over 2 decades of industry experience
 - 🧰 My analytics toolbox contains R, Python, SQL, DAX, Tableau, Power BI, IBM Watson, Microstrategy, MS Excel
 - 🤖 Chatbot Frameworks Dialogflo, Botsify
-- 🎰 Machine Learning Workflows Azure Ml Studio, Ornage Canvas Data Mining, Rapidminer, Knime
+- 🎰 Machine Learning Workflows Azure Ml Studio, Orange Canvas Data Mining, Rapidminer, Knime
 - 📚 Predictive Analytics Libraries Rattle, Deducer, R Commander, Numpy, PyCaret, ScikitLearn, Tensorflow, Keras, Pandas, Seaborn, Matplotlib
 - 🈸 Analytics App Development Framework R Shiny
 - 🌱 I’m a life long learner
